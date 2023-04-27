@@ -1,0 +1,153 @@
+<html>
+<body>
+<form action="{{url_for('predict_datapoint')}}" method="POST">
+    
+
+    <div class="form-group">
+        <label for="LIMIT_BAL">LIMIT_BAL:</label>
+        <input type="text" id="LIMIT_BAL" name="LIMIT_BAL" placeholder="Enter LIMIT_BAL (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="AGE">AGE:</label>
+        <input type="text" id="AGE" name="AGE" placeholder="AGE (int)">
+    </div>
+
+   
+    <div class="form-group">
+        <label for="PAY_0">PAY_0:</label>
+        <input type="PAY_0" id="PAY_0" name="PAY_0" placeholder="Enter Payment Status for April (Range -2 to 9 (int))">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_2">PAY_2:</label>
+        <input type="PAY_2" id="PAY_2" name="PAY_2" placeholder="Enter Payment Status for May (Range -2 to 9 (int))">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_3">PAY_3:</label>
+        <input type="PAY_3" id="PAY_3" name="PAY_3" placeholder="Enter Payment Status for June (Range -2 to 9 (int))">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_4">PAY_4:</label>
+        <input type="PAY_4" id="PAY_4" name="PAY_4" placeholder="Enter Payment Status for July (Range -2 to 9 (int))">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_5">PAY_5:</label>
+        <input type="PAY_5" id="PAY_5" name="PAY_5" placeholder="Enter Payment Status for August (Range -2 to 9 (int))">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_6">PAY_6:</label>
+        <input type="PAY_6" id="PAY_6" name="PAY_6" placeholder="Enter Payment Status for Sept (Range -2 to 9 (int))">
+    </div>
+
+
+
+    <div class="form-group">
+        <label for="BILL_AMT1">BILL_AMT1:</label>
+        <input type="BILL_AMT1" id="BILL_AMT1" name="BILL_AMT1" placeholder="Enter Bill Amount for April (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="BILL_AMT2">BILL_AMT2:</label>
+        <input type="BILL_AMT2" id="BILL_AMT2" name="BILL_AMT2" placeholder="Enter Bill Amount for May (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="BILL_AMT3">BILL_AMT3:</label>
+        <input type="BILL_AMT3" id="BILL_AMT3" name="BILL_AMT3" placeholder="Enter Bill Amount for June (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="BILL_AMT4">BILL_AMT4:</label>
+        <input type="BILL_AMT4" id="BILL_AMT4" name="BILL_AMT4" placeholder="Enter Bill Amount for July (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="BILL_AMT5">BILL_AMT5:</label>
+        <input type="BILL_AMT5" id="BILL_AMT5" name="BILL_AMT5" placeholder="Enter Bill Amount for August (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="BILL_AMT6">BILL_AMT6:</label>
+        <input type="BILL_AMT6" id="BILL_AMT6" name="BILL_AMT6" placeholder="Enter Bill Amount for September (float)">
+    </div>
+
+
+  
+    <div class="form-group">
+        <label for="PAY_AMT1">PAY_AMT1:</label>
+        <input type="PAY_AMT1" id="PAY_AMT1" name="PAY_AMT1" placeholder="Enter PAY_AMT for April (float)">
+    </div>
+
+
+    <div class="form-group">
+        <label for="PAY_AMT2">PAY_AMT2:</label>
+        <input type="PAY_AMT2" id="PAY_AMT2" name="PAY_AMT2" placeholder="Enter PAY_AMT for May (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_AMT3">PAY_AMT3:</label>
+        <input type="PAY_AMT3" id="PAY_AMT3" name="PAY_AMT3" placeholder="Enter PAY_AMT for June (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_AMT4">PAY_AMT4:</label>
+        <input type="PAY_AMT4" id="PAY_AMT4" name="PAY_AMT4" placeholder="Enter PAY_AMT for July (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_AMT5">PAY_AMT5:</label>
+        <input type="PAY_AMT5" id="PAY_AMT5" name="PAY_AMT5" placeholder="Enter PAY_AMT for August (float)">
+    </div>
+
+    <div class="form-group">
+        <label for="PAY_AMT6">PAY_AMT6:</label>
+        <input type="PAY_AMT6" id="PAY_AMT6" name="PAY_AMT6" placeholder="Enter PAY_AMT for September (float)">
+    </div>
+
+    
+  
+          
+  
+<div class="form-group">
+  <label for="SEX">SEX:</label>
+  <select id="SEX" name="SEX">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    
+  </select>
+</div>
+  
+<div class="form-group">
+  <label for="EDUCATION">EDUCATION:</label>
+  <select id="EDUCATION" name="EDUCATION">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+  </select>
+</div>
+
+<div class="form-group">
+  <label for="MARRIAGE">MARRIAGE:</label>
+  <select id="MARRIAGE" name="MARRIAGE">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    
+  </select>
+</div>
+
+
+
+  
+
+<div style="clear:both;"></div>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
