@@ -1,0 +1,12 @@
+[ 2023-05-12 11:33:10,422 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-12 11:33:11,650 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-12 11:33:11,650 ] 225 werkzeug - INFO -  * Debugger PIN: 982-368-386
+[ 2023-05-12 11:33:11,714 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-05-12 11:33:11,714 ] 225 werkzeug - INFO -  * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+[ 2023-05-12 11:35:53,143 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 11:35:53] "GET / HTTP/1.1" 200 -
+[ 2023-05-12 11:35:53,439 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 11:35:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-12 11:37:23,430 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 11:37:23] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-12 11:38:16,693 ] 111 root - INFO - Dataframe Gathered
+[ 2023-05-12 11:38:16,939 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\sklearn\\base.py', reloading
+[ 2023-05-12 11:38:17,459 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 11:38:17] "POST /predict HTTP/1.1" 200 -

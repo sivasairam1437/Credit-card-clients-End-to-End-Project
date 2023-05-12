@@ -1,0 +1,14 @@
+[ 2023-05-12 12:42:47,198 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-12 12:42:48,339 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-12 12:42:48,341 ] 225 werkzeug - INFO -  * Debugger PIN: 982-368-386
+[ 2023-05-12 12:42:48,399 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-05-12 12:42:48,399 ] 225 werkzeug - INFO -  * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+[ 2023-05-12 12:42:54,246 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,246 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,246 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,246 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,248 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,248 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,248 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:54,248 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading

@@ -1,0 +1,17 @@
+[ 2023-05-12 12:40:42,933 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-12 12:40:44,028 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-12 12:40:44,030 ] 225 werkzeug - INFO -  * Debugger PIN: 982-368-386
+[ 2023-05-12 12:40:44,088 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-05-12 12:40:44,089 ] 225 werkzeug - INFO -  * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+[ 2023-05-12 12:40:47,970 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 12:40:47] "GET / HTTP/1.1" 200 -
+[ 2023-05-12 12:41:05,734 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 12:41:05] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-12 12:41:45,636 ] 111 root - INFO - Dataframe Gathered
+[ 2023-05-12 12:41:45,930 ] 225 werkzeug - INFO - 127.0.0.1 - - [12/May/2023 12:41:45] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-12 12:42:20,542 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,542 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,542 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,545 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,545 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,546 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:20,546 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading

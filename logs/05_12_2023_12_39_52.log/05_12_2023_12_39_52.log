@@ -1,0 +1,7 @@
+[ 2023-05-12 12:39:52,575 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-12 12:39:53,938 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-12 12:39:53,938 ] 225 werkzeug - INFO -  * Debugger PIN: 982-368-386
+[ 2023-05-12 12:39:54,001 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-05-12 12:39:54,001 ] 225 werkzeug - INFO -  * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+[ 2023-05-12 12:40:17,214 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\typing.py', reloading

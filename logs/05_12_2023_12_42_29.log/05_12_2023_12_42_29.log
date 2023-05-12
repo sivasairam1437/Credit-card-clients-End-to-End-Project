@@ -1,0 +1,21 @@
+[ 2023-05-12 12:42:29,224 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-12 12:42:30,436 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-12 12:42:30,438 ] 225 werkzeug - INFO -  * Debugger PIN: 982-368-386
+[ 2023-05-12 12:42:30,491 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-05-12 12:42:30,491 ] 225 werkzeug - INFO -  * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+[ 2023-05-12 12:42:30,519 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,522 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,522 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,522 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,523 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,523 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\SIVA SAI RAM\\OneDrive\\Desktop\\Projects\\CreditCardDefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,523 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:30,523 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\siva sai ram\\onedrive\\desktop\\projects\\creditcarddefault\\setup.py', reloading
+[ 2023-05-12 12:42:31,168 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+[ 2023-05-12 12:42:31,222 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\capture.py', reloading
+[ 2023-05-12 12:42:31,266 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+[ 2023-05-12 12:42:31,299 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+[ 2023-05-12 12:42:31,321 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\legacypath.py', reloading
+[ 2023-05-12 12:42:31,335 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\logging.py', reloading
+[ 2023-05-12 12:42:31,363 ] 225 werkzeug - INFO -  * Detected change in 'D:\\Anaconda\\Lib\\site-packages\\_pytest\\recwarn.py', reloading

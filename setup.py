@@ -17,8 +17,9 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='CreditCardProject',
     version='0.0.1',
-    author='Astha',
-    author_email='asthasachan0@gmail.com',
+    author='Siva',
+    author_email='sivasairam1437@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )
+
