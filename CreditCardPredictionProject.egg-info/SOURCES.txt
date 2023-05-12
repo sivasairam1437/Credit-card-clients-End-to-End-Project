@@ -1,9 +1,9 @@
 README.md
 setup.py
-CreditCardPredictionProject.egg-info/PKG-INFO
-CreditCardPredictionProject.egg-info/SOURCES.txt
-CreditCardPredictionProject.egg-info/dependency_links.txt
-CreditCardPredictionProject.egg-info/top_level.txt
+CreditCardProject.egg-info/PKG-INFO
+CreditCardProject.egg-info/SOURCES.txt
+CreditCardProject.egg-info/dependency_links.txt
+CreditCardProject.egg-info/top_level.txt
 src/__init__.py
 src/exception.py
 src/logger.py
